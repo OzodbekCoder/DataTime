@@ -1,0 +1,9 @@
+E:\VisualStudio\Data\Data\bin\Debug\Data.exe.config
+E:\VisualStudio\Data\Data\bin\Debug\Data.exe
+E:\VisualStudio\Data\Data\bin\Debug\Data.pdb
+E:\VisualStudio\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Data\Data\obj\Debug\Data.Form1.resources
+E:\VisualStudio\Data\Data\obj\Debug\Data.Properties.Resources.resources
+E:\VisualStudio\Data\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\VisualStudio\Data\Data\obj\Debug\Data.exe
+E:\VisualStudio\Data\Data\obj\Debug\Data.pdb
